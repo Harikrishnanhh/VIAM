@@ -1,17 +1,15 @@
 {
   "$schema": "https://dl.viam.dev/module.schema.json",
   "module_id": "swiftorangerover:palletizer-102",
-    "models": [
+  "models": [
     {
       "api": "rdk:service:generic",
       "model": "swiftorangerover:palletizer-102:palletizer",
-      "markdown_link": "swiftorangerover102_palletizer.md"
+      "markdown_link": "swiftorangerover_palletizer-102_palletizer.md"
     }
   ],
-
   "visibility": "private",
-  "url": "https://github.com/Harikrishnanhh/VIAM.git
- ",
+  "url": "https://github.com/Harikrishnanhh/VIAM",
   "description": "Modular generic service: palletizer",
   "applications": null,
   "markdown_link": "README.md",
