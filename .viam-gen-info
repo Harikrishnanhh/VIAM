@@ -1,0 +1,13 @@
+{
+  "module_name": "palletizer-102",
+  "visibility": "private",
+  "namespace": "swiftorangerover",
+  "language": "python",
+  "resource_type": "service",
+  "resource_subtype": "generic",
+  "model_name": "palletizer",
+  "initialize_git": false,
+  "generator_version": "0.1.0",
+  "generated_on": "2026-10-06T13:09:20.342639692Z",
+  "module_readme_link": "README.md"
+}
